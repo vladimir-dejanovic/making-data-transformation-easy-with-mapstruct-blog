@@ -1,0 +1,1 @@
+insert into CUSTOMER(id,first_name,last_name,day_of_birth,month_of_birth,year_of_birth,address,house_number,city,country,house_number_addition) values (1, 'Sherlock','Holmes',6,1,1854,'Baker Street',221,'London','Great Britan','B');
